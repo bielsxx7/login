@@ -1,4 +1,4 @@
-<h1 align="center">SeusLinks </h1>
+<h1 align="center">Tela de Login</h1>
 
 <p align="center">
 Projeto para aprofundar meus conhecimentos e praticar os meus estudos como um Desenvolvedor da Web.
@@ -6,8 +6,6 @@ Projeto para aprofundar meus conhecimentos e praticar os meus estudos como um De
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +16,7 @@ Projeto para aprofundar meus conhecimentos e praticar os meus estudos como um De
 <br>
 
 <p align="center">
-  <img alt="Projeto Seuslinks" src=".github/demo.png" width="100%">
+  <img alt="Projeto Seuslinks" src=".github/demo2.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,16 +29,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O seusLinks é um projeto que armazena todos seus links para ficar mais fácil de organizar sua vida
+A "Tela de login" é um projeto para garantir que o usuário logue em sua conta com segurança e 
+praticidade.
 
-## 🔖 Layout
+## 🔖
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## Licença
-
-Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat : [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Gabriel Martins de Souza
